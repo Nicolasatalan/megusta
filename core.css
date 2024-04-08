@@ -1,0 +1,55 @@
+#container {
+    background-color: crimson;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-flow: wrap row;
+    width: 85dvw;   
+}
+.logo{
+    margin: 10px;
+    padding: -5px;
+}
+#buscar{
+    width: 750px;
+    height: 30px;
+}
+#cambioboton{
+    margin-right: 30px;
+    width: 100px;
+    height: 30px;
+    color: aliceblue;
+    background-color: cadetblue;
+}
+.pr{
+    font-style: oblique  ;
+}
+.containerdos{
+    border: 2px solid black;
+    margin-left: 130px;
+    padding: 15px;
+    width: 900px;
+    margin-top: 20px;
+}
+.containertres{
+    border: 2px solid black;
+    margin-left: 130px;
+    padding: 15px;
+    width: 900px;
+    margin-top: 20px;  
+}
+.containercuatro{
+    border: 2px solid black;
+    margin-left: 1100px;
+    margin-top: -494px;
+    padding: 15px;
+    width: 500px;
+}
+#agregar{
+    margin-right: 30px;
+    width: 200px;
+    height: 30px;
+    color: aliceblue;
+    background-color: rgb(25, 70, 25);
+}

@@ -1,0 +1,152 @@
+
+.container{
+    background-color: rgb(37, 37, 37);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.feed{
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+.containerdos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.containertres{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    border: 2px solid black;
+    margin: 30px;
+    width: 200px;
+    height: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+}
+.perfil{
+    width: 180px;
+    height: 180px;  
+    margin-top: 5px;
+    border-radius: 100%;
+}
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.containercuatro{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    text-align: start;
+    background-color: rgb(221, 214, 214);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    border: 2px solid black;
+    margin-bottom: 15px;
+    padding: 15px;
+    width: 900px;
+    height: 85px;
+    border-radius: 5px;
+}
+.containercuatro h2{
+    margin-top: 10px;
+}
+.containercuatro h5{
+    margin-left: 780px;  
+    margin-top: -41px;
+}
+.megusta{
+    position: relative;
+    left: 840px; 
+    top: -45px; 
+    font-size: 15px;
+    background-color: gold;
+    border: 0px;
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+}
+.containercuatro h4{
+    margin-top: -20px;
+}
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.containercinco{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    text-align: start;
+    background-color: rgb(221, 214, 214);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    border: 2px solid black;
+    margin-bottom: 15px;
+    padding: 15px;
+    width: 900px;
+    height: 85px;
+    border-radius: 5px;
+}
+.containercinco h2{
+    margin-top: 10px;
+}
+.containercinco h5{
+    margin-left: 780px;  
+    margin-top: -41px;
+}
+.megusta2{
+    position: relative;
+    left: 840px; 
+    top: -45px; 
+    font-size: 15px;
+    background-color: gold;
+    border: 0px;
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+}
+.containercinco h4{
+    margin-top: -20px;
+}
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.containerseis{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    text-align: start;
+    background-color: rgb(221, 214, 214);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    border: 2px solid black;
+    margin-bottom: 15px;
+    padding: 15px;
+    width: 900px;
+    height: 85px;
+    border-radius: 5px;
+}
+.containerseis h2{
+    margin-top: 10px;
+}
+.containerseis h5{
+    margin-left: 780px;  
+    margin-top: -41px;
+}
+.megusta3{
+    position: relative;
+    left: 840px; 
+    top: -45px; 
+    font-size: 15px;
+    background-color: gold;
+    border: 0px;
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+}
+.containerseis h4{
+    margin-top: -20px;
+}
